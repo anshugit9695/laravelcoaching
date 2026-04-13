@@ -1,0 +1,44 @@
+@extends('frontend.master')
+@section('content')
+
+<!-- Page Banner -->
+<section class="relative bg-teal py-28"
+    style="background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2000&auto=format&fit=crop'); background-size: cover; background-position: center; background-blend-mode: multiply;">
+    <div class="absolute inset-0 bg-gradient-to-r from-navy/90 to-teal/70"></div>
+    <div class="container mx-auto px-4 relative z-10 text-center">
+        <h1 class="text-5xl md:text-6xl font-extrabold text-white mb-4 uppercase tracking-wider">Placement Process</h1>
+        <div
+            class="flex items-center justify-center space-x-3 text-orange font-semibold tracking-widest uppercase text-sm">
+            <a href="index.html" class="text-white hover:text-orange transition">Home</a>
+            <span class="text-gray-400"><i class="fa-solid fa-angle-right"></i></span>
+            <span>Placement Process</span>
+        </div>
+    </div>
+</section>
+
+
+<section class="container mx-auto px-4 py-20 max-w-7xl">
+    <div class="grid gap-12 lg:grid-cols-[50%_50%] items-center">
+
+        <!-- Left (50%) -->
+        <div class="space-y-6">
+            <h2 class="text-4xl font-bold text-navy">Placement Process for Your Success</h2>
+            <p class="text-gray-600 leading-relaxed">
+                Placement Process holding diplomas or certificates at graduation ceremonies, representing the
+                culmination of their studies and the achievement of their goals, possibly aided by a scholarship.
+            </p>
+            <p class="text-gray-600 leading-relaxed">
+                Placement Process applying for Placement Process, working on laptops, or reviewing documents related to
+                the application process.
+            </p>
+        </div>
+
+        <!-- Right (50%) -->
+        <div class="rounded-3xl overflow-hidden shadow-2xl w-full">
+            <img src="https://skiitminstitute.com/head_office/upload/81941bb.jpg" alt="Apply for Placement Process"
+                class="w-full h-auto object-cover">
+        </div>
+
+    </div>
+</section>
+@endsection

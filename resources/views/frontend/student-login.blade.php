@@ -7,7 +7,7 @@
   <title>Student Login</title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="login.css">
+  <link rel="stylesheet" href="{{ asset('frontend/login.css') }}">
 
   <!-- Bootstrap (optional for button) -->
 </head>
@@ -18,17 +18,17 @@
   <!-- Animation Leaves -->
   <div class="leaves">
     <div class="set">
-      <div><img src="images/login/leaf_01.png"></div>
-      <div><img src="images/login/leaf_02.png"></div>
-      <div><img src="images/login/leaf_03.png"></div>
-      <div><img src="images/login/leaf_04.png"></div>
+      <div><img src="{{ asset('frontend/images/login/leaf_01.png') }}"></div>
+      <div><img src="{{ asset('frontend/images/login/leaf_02.png') }}"></div>
+      <div><img src="{{ asset('frontend/images/login/leaf_03.png') }}"></div>
+      <div><img src="{{ asset('frontend/images/login/leaf_04.png') }}"></div>
     </div>
   </div>
 
   <!-- Background Images -->
-  <img src="images/login/bg.jpg" class="bg">
-  <img src="images/login/girl.png" class="girl">
-  <img src="images/login/trees.png" class="trees">
+  <img src="{{ asset('frontend/images/login/bg.jpg') }}" class="bg">
+  <img src="{{ asset('frontend/images/login/girl.png') }}" class="girl">
+  <img src="{{ asset('frontend/images/login/trees.png') }}" class="trees">
 
   <!-- Login Box -->
   <div class="login">

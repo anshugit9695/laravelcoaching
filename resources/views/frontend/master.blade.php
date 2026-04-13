@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Verify Student - SKiiTM Institute</title>
+    <title>Qeducato - HTML Template</title>
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Fonts -->
@@ -35,6 +35,11 @@
             }
         }
     </script>
+    <style>
+        .clip-slant {
+            clip-path: polygon(0 0, 100% 0, 95% 100%, 0 100%);
+        }
+    </style>
 </head>
 
 <body class="font-sans text-gray-600 bg-white antialiased text-[15px]">
@@ -71,80 +76,126 @@
     <header class="bg-white border-b border-gray-100 sticky top-0 z-40">
         <div class="container mx-auto px-4 py-auto flex justify-between items-center h-24">
             <!-- Logo -->
-            <a href="index.html" class="flex items-center text-3xl font-bold text-navy">
-                <i class="fa-solid fa-graduation-cap text-orange text-4xl mr-2"></i> SKiiTM
+            <a href="{{ url('/') }}" class="flex items-center text-3xl font-bold text-navy">
+                <i class="fa-solid fa-graduation-cap text-orange text-4xl mr-2"></i>Skiitm
             </a>
 
             <!-- Mid Nav Links -->
             <nav class="hidden lg:flex space-x-8 font-semibold text-navy text-[16px]">
-                <a href="index.html" class="hover:text-orange transition">Home</a>
-                <a href="about.html" class="text-orange hover:text-orange transition">About</a>
-                <a href="#" class="hover:text-orange transition">Courses <i
-                        class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i></a>
-                <a href="#" class="hover:text-orange transition">Pages <i
-                        class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i></a>
-                <a href="#" class="hover:text-orange transition">News <i
-                        class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i></a>
-                <a href="#" class="hover:text-orange transition">Contact</a>
+
+                <a href="#" class="text-orange hover:text-orange transition">Home</a>
+
+                <!-- About -->
+                <div class="relative group inline-block">
+                    <a href="#" class="hover:text-orange transition flex items-center">
+                        About
+                        <i class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i>
+                    </a>
+
+                    <div class="absolute left-0 top-full pt-2 w-44 bg-white shadow-lg rounded
+            opacity-0 invisible translate-y-2
+            group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+            transition-all duration-300 ease-in-out delay-100 z-50">
+
+                        <a href="{{ url('/about') }}" class="block px-4 py-2 hover:bg-gray-100">About Us</a>
+                        <a href="{{ url('/director') }}" class="block px-4 py-2 hover:bg-gray-100">Director</a>
+                    </div>
+                </div>
+
+                <!-- Courses -->
+                <div class="relative group inline-block">
+                    <a href="#" class="hover:text-orange transition flex items-center">
+                        Courses
+                        <i class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i>
+                    </a>
+
+                    <div class="absolute left-0 top-full pt-2 w-44 bg-white shadow-lg rounded
+            opacity-0 invisible translate-y-2
+            group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+            transition-all duration-300 ease-in-out delay-100 z-50">
+
+                        <a href="{{ url('/course-1') }}" class="block px-4 py-2 hover:bg-gray-100">Course 1</a>
+                        <a href="{{ url('/course-2') }}" class="block px-4 py-2 hover:bg-gray-100">Course 2</a>
+                        <a href="{{ url('/course-detail') }}" class="block px-4 py-2 hover:bg-gray-100">Course details
+                            Page</a>
+                    </div>
+                </div>
+
+                <!-- Student Zone -->
+                <div class="relative group inline-block">
+                    <a href="#" class="hover:text-orange transition flex items-center">
+                        Student Zone
+                        <i class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i>
+                    </a>
+
+                    <div class="absolute left-0 top-full pt-2 w-44 bg-white shadow-lg rounded
+            opacity-0 invisible translate-y-2
+            group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+            transition-all duration-300 ease-in-out delay-100 z-50">
+
+                        <a href="{{ url('/student-admission') }}" class="block px-4 py-2 hover:bg-gray-100">Student
+                            Admission</a>
+                        <a href="{{ url('/student-login') }}" class="block px-4 py-2 hover:bg-gray-100">Student
+                            Login</a>
+                        <a href="{{ url('/student-verification') }}" class="block px-4 py-2 hover:bg-gray-100">Student
+                            Verification</a>
+                        <a href="{{ url('/scholarship') }}" class="block px-4 py-2 hover:bg-gray-100">Apply for
+                            Scholarship</a>
+                    </div>
+                </div>
+
+                <!-- Franchise -->
+                <div class="relative group inline-block">
+                    <a href="#" class="hover:text-orange transition flex items-center">
+                        Franchise
+                        <i class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i>
+                    </a>
+
+                    <div class="absolute left-0 top-full pt-2 w-44 bg-white shadow-lg rounded
+            opacity-0 invisible translate-y-2
+            group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+            transition-all duration-300 ease-in-out delay-100 z-50">
+
+                        <a href="{{ url('/center-login') }}" class="block px-4 py-2 hover:bg-gray-100">Franchise
+                            Login</a>
+                        <a href="{{ url('/franchise-form') }}" class="block px-4 py-2 hover:bg-gray-100">Franchise
+                            Form</a>
+                        <a href="{{ url('/centers') }}" class="block px-4 py-2 hover:bg-gray-100">Learining Center</a>
+                        <a href="{{ url('/franchise') }}" class="block px-4 py-2 hover:bg-gray-100">Franchise
+                            Agreement</a>
+                    </div>
+                </div>
+
+                <!-- Job Zone -->
+                <div class="relative group inline-block">
+                    <a href="#" class="hover:text-orange transition flex items-center">
+                        Job Zone
+                        <i class="fa-solid fa-angle-down text-xs ml-1 text-gray-400"></i>
+                    </a>
+
+                    <div class="absolute left-0 top-full pt-2 w-44 bg-white shadow-lg rounded
+            opacity-0 invisible translate-y-2
+            group-hover:opacity-100 group-hover:visible group-hover:translate-y-0
+            transition-all duration-300 ease-in-out delay-100 z-50">
+
+                        <a href="{{ url('/placement-process') }}" class="block px-4 py-2 hover:bg-gray-100">Placement
+                            Process</a>
+                        <a href="{{ url('/placement') }}" class="block px-4 py-2 hover:bg-gray-100">Placement</a>
+                        <a href="{{ url('/job') }}" class="block px-4 py-2 hover:bg-gray-100">Apply For Job</a>
+                    </div>
+                </div>
+
+                <a href="{{ url('/bank') }}" class="hover:text-orange transition">Payment</a>
+                <a href="{{ url('/contact') }}" class="hover:text-orange transition">Contact</a>
+
             </nav>
-
-            <!-- Right Actions -->
-            <div class="hidden lg:flex items-center space-x-6">
-                <button class="text-navy hover:text-orange transition text-xl"><i
-                        class="fa-solid fa-magnifying-glass"></i></button>
-                <button class="text-navy hover:text-orange transition text-xl"><i
-                        class="fa-solid fa-bag-shopping"></i></button>
-                <a href="#"
-                    class="bg-orange text-white px-8 py-3 rounded hover:bg-orange-hover transition font-medium shadow-[0_4px_10px_rgba(255,84,56,0.3)]">
-                    Apply Now <i class="fa-solid fa-arrow-right ml-1 text-sm"></i>
-                </a>
-            </div>
-
             <!-- Mobile Menu -->
             <button class="lg:hidden text-navy text-2xl focus:outline-none"><i class="fa-solid fa-bars"></i></button>
         </div>
     </header>
 
-    <!-- Page Banner -->
-    <section class="relative bg-teal py-28"
-        style="background-image: url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2000&auto=format&fit=crop'); background-size: cover; background-position: center; background-blend-mode: multiply;">
-        <div class="absolute inset-0 bg-gradient-to-r from-navy/90 to-teal/70"></div>
-        <div class="container mx-auto px-4 relative z-10 text-center">
-            <h1 class="text-5xl md:text-6xl font-extrabold text-white mb-4 uppercase tracking-wider">Verify Student</h1>
-            <div class="flex items-center justify-center space-x-3 text-orange font-semibold tracking-widest uppercase text-sm">
-                <a href="index.html" class="text-white hover:text-orange transition">Home</a>
-                <span class="text-gray-400"><i class="fa-solid fa-angle-right"></i></span>
-                <span>Verify Student</span>
-            </div>
-        </div>
-    </section>
+    @yield('content')
 
-    <main class="container mx-auto px-4 py-20">
-        <div class="grid gap-12 lg:grid-cols-2 items-center">
-            <div class="rounded-3xl overflow-hidden shadow-2xl">
-                <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop"
-                    alt="Student verification" class="w-full h-full object-cover min-h-[400px]">
-            </div>
-            <div class="bg-white rounded-3xl shadow-xl p-10 lg:p-14">
-                <span class="inline-block text-orange uppercase tracking-[0.3em] text-[13px] font-semibold mb-4">Student Verification</span>
-                <h2 class="text-4xl font-bold text-navy mb-6">Enter your roll number to verify your details</h2>
-                <p class="text-gray-500 mb-8">Use the input below to check your student record. Make sure your roll number is entered correctly.</p>
-                <form action="#" method="POST" class="space-y-6">
-                    <div>
-                        <label class="block text-sm font-medium text-gray-700 mb-2" for="roll">Roll Number</label>
-                        <input id="roll" name="roll" type="text" placeholder="Enter Roll No."
-                            class="w-full rounded-2xl border border-gray-200 px-5 py-4 text-gray-700 focus:border-orange focus:ring-2 focus:ring-orange/20 outline-none" required>
-                    </div>
-                    <button type="submit"
-                        class="inline-flex items-center justify-center rounded-2xl bg-orange px-8 py-4 text-white text-base font-semibold shadow-[0_15px_35px_rgba(255,84,56,0.2)] hover:bg-orange-hover transition w-full">
-                        Submit Now
-                    </button>
-                </form>
-            </div>
-        </div>
-    </main>
-
-   
     <!-- Footer -->
     <footer class="bg-navy pt-20 mt-20 relative">
         <!-- Subscribe overlapping Box -->
