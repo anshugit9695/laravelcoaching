@@ -1,0 +1,811 @@
+
+        
+        * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section .bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+section .trees {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 100;
+  pointer-events: none;
+}
+
+section .girl {
+  position: absolute;
+  scale: 0.65;
+  pointer-events: none;
+  animation: animateGirl 10s linear infinite;
+}
+
+@keyframes animateGirl {
+  0% {
+    transform: translateX(calc(100% + 100vw));
+  }
+  50% {
+    transform: translateX(calc(-100% - 100vw));
+  }
+  50.01% {
+    transform: translateX(calc(-100% - 100vw)) rotateY(180deg);
+  }
+  100% {
+    transform: translateX(calc(100% + 100vw)) rotateY(180deg);
+  }
+}
+
+.login {
+  position: relative;
+  padding: 60px;
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(15px);
+  border: 1px solid #fff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-right: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.1);
+  z-index: 150;
+}
+
+
+.login h2 {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: 600;
+  color: #8f2c24;
+  margin-bottom: 10px;
+}
+
+.login .inputBox {
+  position: relative;
+}
+
+.login .inputBox input {
+  position: relative;
+  width: 100%;
+  padding: 15px 20px;
+  outline: none;
+  font-size: 1.25em;
+  color: #8f2c24;
+  border-radius: 5px;
+  background: #fff;
+  border: none;
+  margin-bottom: 30px;
+}
+
+.login .inputBox ::placeholder {
+  color: #8f2c24;
+}
+
+.login .inputBox #btn {
+  position: relative;
+  border: none;
+  outline: none;
+  background: #8f2c24;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.25em;
+  font-weight: 500;
+  transition: 0.5s;
+}
+
+.login .inputBox #btn:hover {
+  background: #d64c42;
+}
+
+.login .group {
+  display: flex;
+  justify-content: space-between;
+}
+
+.login .group a {
+  font-size: 1.25em;
+  color: #8f2c24;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.login .group a:nth-child(2) {
+  text-decoration: underline;
+}
+
+.leaves {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.leaves .set {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+.leaves .set div {
+  position: absolute;
+  display: block;
+}
+
+.leaves .set div:nth-child(1) {
+  left: 20%;
+  animation: animate 20s linear infinite;
+}
+
+.leaves .set div:nth-child(2) {
+  left: 50%;
+  animation: animate 14s linear infinite;
+}
+
+.leaves .set div:nth-child(3) {
+  left: 70%;
+  animation: animate 12s linear infinite;
+}
+
+.leaves .set div:nth-child(4) {
+  left: 5%;
+  animation: animate 15s linear infinite;
+}
+
+.leaves .set div:nth-child(5) {
+  left: 85%;
+  animation: animate 18s linear infinite;
+}
+
+.leaves .set div:nth-child(6) {
+  left: 90%;
+  animation: animate 12s linear infinite;
+}
+
+.leaves .set div:nth-child(7) {
+  left: 15%;
+  animation: animate 14s linear infinite;
+}
+
+.leaves .set div:nth-child(8) {
+  left: 60%;
+  animation: animate 15s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+    top: -10%;
+    transform: translateX(20px) rotate(0deg);
+  }
+  10% {
+    opacity: 1;
+  }
+  20% {
+    transform: translateX(-20px) rotate(45deg);
+  }
+  40% {
+    transform: translateX(-20px) rotate(90deg);
+  }
+  60% {
+    transform: translateX(20px) rotate(180deg);
+  }
+  80% {
+    transform: translateX(-20px) rotate(45deg);
+  }
+  100% {
+    top: 110%;
+    transform: translateX(20px) rotate(225deg);
+  }
+}
+
+
+   .search-form input{
+    border-radius: 6px;
+   }
+   
+        .box-header-nav .main-menu > .menu-item {
+        padding: 0 0px;
+    }
+    /* Center the menu horizontally */
+.header-logo-nav {
+    display: flex;
+    justify-content: center; /* Center the inner content horizontally */
+    align-items: center;
+}
+
+.box-header-nav.menu-nocenter {
+    flex: 1; /* take full available space for centering */
+}
+
+.box-header-nav.menu-nocenter ul#menu-primary-menu {
+    display: flex;
+    justify-content: center; /* center menu items inside ul */
+    gap: 30px; /* spacing between menu items */
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.box-header-nav.menu-nocenter ul#menu-primary-menu li a {
+    color: #fff !important;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.box-header-nav.menu-nocenter ul#menu-primary-menu li a:hover {
+    color: #75619D;
+}
+/* MOBILE: move search bar to bottom */
+@media (max-width: 767px) {
+    .header-logo-nav {
+        flex-direction: column; /* stack content */
+    }
+
+    /* target the search bar */
+    .header-search-bar {
+        width: 100%;
+        order: 3; /* send to bottom */
+        text-align: center;
+        padding: 10px 0;
+          border-radius: 6px !important;
+    }
+
+    .header-search-bar .search-input {
+        width: 90%;
+        padding: 10px;
+        border: 1px solid #ccc;
+      
+    }
+
+    /* increase spacing between menu links */
+    #menu-primary-menu {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+/* =====================================  */
+
+/* banner  */
+
+
+/* Your original design – unchanged */
+.gradient-slide {
+  height: 85vh;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: radial-gradient(circle at center,#beaedb 0%,#75619d 100%);
+  box-shadow: 0 0 45px rgba(0,0,0,0.45);
+}
+.gradient-slide .bg-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.gradient-slide .slide-info {
+  position: relative;
+  z-index: 5;
+  text-align: center;
+}
+.gradient-slide .slide-inner h5,
+.gradient-slide .slide-inner h1,
+.gradient-slide .slide-inner h2,
+.gradient-slide .slide-inner a {
+  color: #ffffff !important;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+}
+.gradient-slide .slide-inner a {
+  background: #75619d !important;
+  color: #fff !important;
+}
+.gradient-slide .slide-inner a:hover {
+  background: #beaedb !important;
+  color: #fff !important;
+}
+.slide-home-01 .slick-arrow {
+  display: none !important;
+}
+/* ============================  */
+/* offer section  4 images */ 
+    /* YOUR EXISTING CODE — (unchanged) */
+.offer-heading {
+  font-size: 26px;
+  color: #000;
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: Montserrat, sans-serif;
+}
+
+.offer-box {
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+  height: 400px;
+}
+
+.offer-box img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  /* border-radius: 2px !important; */
+  transition: 0.3s ease;
+}
+
+/* glow overlay */
+.offer-box::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  /* border-radius: inherit; */
+  pointer-events: none;
+  transition: 0.35s ease;
+}
+
+.light-shadow .offer-box::before {
+  box-shadow: inset 0 0 160px rgba(190, 174, 219, 0.85),
+              inset 0 0 260px rgba(190, 174, 219, 0.55);
+}
+
+.dark-shadow .offer-box::before {
+  box-shadow: inset 0 0 160px rgba(117, 97, 157, 0.85),
+              inset 0 0 260px rgba(117, 97, 157, 0.55);
+}
+
+/* .offer-box:hover::before {
+  box-shadow: inset 0 0 220px rgba(255, 255, 255, 0.60),
+              inset 0 0 300px rgba(255, 255, 255, 0.40);
+} */
+
+/* .offer-box:hover img {
+  transform: translateY(-6px) scale(1.04);
+} */
+
+.offer-box p {
+  position: absolute;
+  bottom: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  max-width: 90%;
+  padding: 8px 16px;
+  /* border-radius: 40px; */
+  color: #262626;
+  backdrop-filter: blur(3px);
+  background: rgba(190,174,219,0.88);
+  transition: 0.35s ease;
+}
+
+.offer-box:hover p {
+  transform: translateX(-50%) translateY(-4px);
+}
+
+/* TABLET */
+@media (max-width: 991px) {
+  .offer-box { height: 320px; }
+  .offer-box p { font-size: 14px; padding: 6px 12px; }
+  .offer-heading { font-size: 24px; margin-bottom: 20px; }
+}
+
+/* MOBILE */
+@media (max-width: 575px) {
+  .offer-box { height: 250px; }
+  .offer-box p { font-size: 13px; padding: 5px 10px; bottom: 10px; }
+  .offer-heading { font-size: 20px; margin-bottom: 15px; }
+  .offer-sec .row {
+    gap: 14px !important;
+  }
+}
+
+/* 📌 Only UPDATED PART (Add left + right padding on mobile ONLY) */
+@media (max-width: 575px) {
+  .offer-sec {
+    padding-left: 12px;    /* added */
+    padding-right: 12px;   /* added */
+  }
+}
+
+/* ====================================  */
+/* shop the lokk  */
+/* 4 video section  */
+
+ .offer-box p{
+      border-radius: 0px;
+      width: 100%;
+      background-color: #75619d;
+      color: #fff;
+      
+    }
+.video-box video {
+  width: 100%;
+  height: 450px;
+  object-fit: cover;
+  border-radius: 8px;
+ 
+}
+@media (max-width: 768px) {
+  .video-box video { height: 340px; 
+
+  }
+  .offer-box p{
+     font-size: smaller;
+      
+    }
+   
+}
+@media (max-width: 500px) {
+  .video-box video { height: 300px; }
+}
+
+/* Remove arrows + dots on desktop */
+@media (min-width: 1200px) {
+  .videoSwiper .swiper-wrapper {
+    display: flex;
+    gap: 15px;
+  }
+  .swiper-slide {
+    width: 25% !important;
+  }
+}
+/* =======================================  */
+/* best seller section  */
+    
+    
+ 
+
+/* =========================================  */
+/* mordern classes section  */
+
+.banner-label{
+    color: black !important;
+}
+.title{
+    color:  #291257 !important;
+}
+.subtitle{
+    color: black !important;
+}
+
+    .akasha-banner.style-02 {
+    position: relative;
+    overflow: hidden;
+}
+
+/* Full section gradient (professional cinematic style) */
+.akasha-banner.style-02 .banner-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(
+        circle at center,
+         circle,
+        #beaedb 0%,      /* light center */
+        #c2acec 45%,     /* middle dark */
+        #beaedb 70%     /* outer darker */
+    );
+    opacity: 0.25; /* softer gradient, adjust as needed */
+    pointer-events: none;
+    z-index: 1;
+    box-shadow: 0 0 45px rgba(0,0,0,0.45); /* cinematic shadow */
+    transition: opacity 0.3s ease;
+}
+
+/* Image */
+.akasha-banner.style-02 .banner-thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 0;
+}
+
+/* Text colors */
+.akasha-banner.style-02 .banner-label,
+.akasha-banner.style-02 .title,
+.akasha-banner.style-02 .subtitle {
+    color: #75619d; /* text color */
+}
+
+/* Button colors */
+.akasha-banner.style-02 .button {
+    background-color: #75619d;
+    color: #fff;
+}
+
+.akasha-banner.style-02 .button:hover {
+    background-color: #BEAEDB;
+    color: #3f2a52;
+}
+
+/* Gradient overlay inside banner-thumb (if needed) */
+.akasha-banner.style-02 .banner-thumb::before {
+    background: radial-gradient(
+        circle at center,
+        #0a011b 0%,
+        #450dbd 25%,
+        #15063a 55%,
+        #1a0249 80%,
+        #0a011a 100%
+    );
+    opacity: 0.25; /* soft overlay, subtle */
+}
+/* ==================================  */
+/* new arrival section  */
+ 
+        /* 🔹 Global button style */
+.button,
+.btn,
+.btn-submit {
+    background: #beaedb !important;
+    color: #000 !important;
+    transition: 0.35s ease;
+}
+
+/* 🔹 Hover button style */
+.button:hover,
+.btn:hover,
+.btn-submit:hover {
+    background: #75619d !important;
+    color: #fff !important;
+    transform: scale(1.05);
+}
+
+/* 🔹 Wishlist button (YITH) */
+.yith-wcwl-add-button a {
+    background: #beaedb !important;
+    color: #000 !important;
+    padding: 6px 12px;
+    border-radius: 6px;
+    transition: 0.35s ease;
+}
+
+/* 🔹 Hover wishlist */
+.yith-wcwl-add-button a:hover {
+    background: #75619d !important;
+    color: #fff !important;
+}
+
+/* 🔹 Sale badge */
+.onsale {
+    background: #75619d !important;
+    color: #fff !important;
+}
+
+
+
+/* 🔹 Product info box */
+.product-info {
+    background: #beaedb20; /* light transparent version */
+    padding: 12px;
+    border-radius: 8px;
+}
+
+/* 🔹 Group button box */
+.group-button.clearfix {
+    background: #beaedb !important;
+    padding: 8px;
+    border-radius: 10px;
+    transition: 0.35s ease;
+}
+
+/* 🔹 Hover effect for group button box */
+.group-button.clearfix:hover {
+    background: #75619d !important;
+    transform: scale(1.04);
+}
+
+/* 🔹 Icons inside group button */
+.group-button.clearfix a {
+    color: #000 !important;
+    transition: 0.35s ease;
+}
+
+.group-button.clearfix a:hover {
+    color: #fff !important;
+}
+/* ==========================================  */
+/* new collection section  */
+
+        .subtitle{
+            color: black;
+        }
+        .akasha-banner .button {
+    background: #75619d !important;   /* normal */
+    color: #fff !important;
+    padding: 10px 26px;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.akasha-banner .button:hover {
+    background: #beaedb !important;   /* hover */
+    color: #000 !important;
+}
+.akasha-banner .banner-thumb {
+    position: relative;
+    background: radial-gradient(
+        circle,
+        #beaedb 0%,      /* light center */
+        #c2acec 45%,     /* middle dark */
+        #ad8fe7 70%     /* outer darker */
+    );
+  
+    overflow: hidden;
+}
+.akasha-banner .banner-thumb img {
+    mix-blend-mode: multiply;
+    opacity: 0.85;
+}
+/* =========================================  */
+/* from our blogs  */
+
+        /* 🔹 Datebox background */
+.datebox,
+.date-box,
+.post-date,
+.product-date {
+    background: #75619d !important;
+    color: #fff !important;
+    padding: 6px 12px ;
+    /* border-radius: 6px; */
+    /* font-weight: 600; */
+    display: inline-block;
+    transition: 0.35s ease;
+}
+.date-box span {
+    padding-bottom: 4px !important; /* updated padding */
+}
+       .post-content {
+            height: 200px !important;
+            padding-left: 20px;
+            padding-right: 20px;
+           
+        }
+    .datebox span:first-child {
+    display: block;
+    height: 25px;
+    }
+    .blog-grid .post-title::before {
+    border-bottom: 2px solid #beaedb;
+    }
+    /* ======================================  */
+    /* shop now banner section  */
+  .video-banner {
+    display: none;
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .banner-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100vh; /* Full screen */
+    overflow: hidden;
+  }
+
+  /* Mobile */
+  @media (max-width: 767px) {
+    .video-mobile { display: block; }
+  }
+
+  /* Tablet */
+  @media (min-width: 768px) and (max-width: 1199px) {
+    .video-tablet { display: block; }
+  }
+
+  /* Desktop */
+  @media (min-width: 1200px) {
+    .video-desktop { display: block; }
+  }
+
+  /* CTA Optional */
+  .banner-cta {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 5;
+    text-align: center;
+  }
+  .banner-cta .btn-shop {
+    background:#75619d;
+    padding: 14px 40px;
+    border-radius: 40px;
+    backdrop-filter: blur(10px);
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.3s;
+  }
+  .banner-cta .btn-shop:hover {
+    background: #beaedb;
+    color: black;
+  }
+  /* ===========================================  */
+   /* 4 icons section  */
+
+        .akasha-iconbox.style-02 .icon span {
+    color: #75619d !important;
+    font-size: 42px; /* optional adjust */
+    transition: 0.3s;
+}
+  /* ====================================  */
+/* footer section  */
+
+/* Normal state */
+.btn-submit {
+    background: #75619d !important;   /* light color */
+    color: #fff !important;
+    transition: 0.3s ease;
+}
+.btn-submit :hover {
+    color: #000 !important;
+    transition: 0.3s ease;
+}
+
+.akasha-newsletter.style-01 .submit-newsletter::before {
+    background: #beaedb;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: -1px;
+    content: "";
+}
+
+
+
+   
