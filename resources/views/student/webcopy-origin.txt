@@ -1,0 +1,544 @@
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dMIFdwYjGaAMFtZd_QA1ZeUFuaHjyV.woff2
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\s\albertsans\v1\i7dMIFdwYjGaAMFtZd_QA1ZeUFuaHjyV.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dMIFdwYjGaAMFtZd_QA1ZeUFWaHg.woff2
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\s\albertsans\v1\i7dMIFdwYjGaAMFtZd_QA1ZeUFWaHg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dOIFdwYjGaAMFtZd_QA1ZbYFc.woff2
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\s\albertsans\v1\i7dOIFdwYjGaAMFtZd_QA1ZbYFc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dOIFdwYjGaAMFtZd_QA1ZVYFeCGg.woff2
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\s\albertsans\v1\i7dOIFdwYjGaAMFtZd_QA1ZVYFeCGg.woff2
+Content Type: font/woff2
+
+Uri: https://tfdataflow.vercel.app/
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/add-attributes.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\add-attributes.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/add-category.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\add-category.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/add-new-user.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\add-new-user.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/add-product.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\add-product.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/all-user.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\all-user.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/attributes-list.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\attributes-list.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/category-list.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\category-list.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/css/animate.min.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\css\animate.min.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/css/animation.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\css\animation.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/css/styles.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\css\styles.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/edit-product.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\edit-product.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/faqs.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\faqs.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/font/fonts.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\font\fonts.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/forgot-password.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\forgot-password.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/home-2.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\home-2.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/home-3.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\home-3.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/home-4.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\home-4.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/icon/fonts/icomoon.eot?rd1719
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\icon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tfdataflow.vercel.app/icon/fonts/icomoon.svg?rd1719
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\icon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://tfdataflow.vercel.app/icon/fonts/icomoon.ttf?rd1719
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\icon\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://tfdataflow.vercel.app/icon/fonts/icomoon.woff?rd1719
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\icon\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://tfdataflow.vercel.app/icon/style.css
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\icon\style.css
+Content Type: text/css
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-1.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-1.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-2.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-2.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-3.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-3.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-4.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-4.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-5.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-5.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-6.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-6.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-7.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-7.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-8.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-8.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/apps/item-9.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\apps\item-9.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/avatar/user-1.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\avatar\user-1.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/avatar/user-2.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\avatar\user-2.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/avatar/user-3.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\avatar\user-3.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/avatar/user-4.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\avatar\user-4.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/avatar/user-5.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\avatar\user-5.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/avatar/user-default.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\avatar\user-default.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/customers/customer-1.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\customers\customer-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/customers/customer-2.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\customers\customer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/customers/customer-3.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\customers\customer-3.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/customers/customer-4.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\customers\customer-4.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/favicon.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\favicon.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/images-section/sign-in.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\images-section\sign-in.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/images-section/sign-up.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\images-section\sign-up.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/images-section/track-oder-1.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\images-section\track-oder-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/logo/logo.svg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://tfdataflow.vercel.app/images/payment/img-1.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\payment\img-1.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/payment/img-2.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\payment\img-2.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/payment/img-3.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\payment\img-3.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/payment/img-4.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\payment\img-4.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/payment/img-5.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\payment\img-5.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/payment/img-6.png
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\payment\img-6.png
+Content Type: image/png
+
+Uri: https://tfdataflow.vercel.app/images/products/product-1.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-2.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-3.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-4.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-5.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-6.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-7.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-7.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-1.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-2.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-3.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-3.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-4.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-4.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-5.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-5.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-thumbs-1.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-thumbs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-thumbs-2.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-thumbs-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-thumbs-3.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-thumbs-3.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-thumbs-4.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-thumbs-4.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-thumbs-5.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-thumbs-5.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/products/product-detail-thumbs-6.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\products\product-detail-thumbs-6.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/upload/img-1.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\upload\img-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/images/upload/img-2.jpg
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\images\upload\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tfdataflow.vercel.app/index.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\index.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/apexcharts.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\apexcharts.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-1.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-1.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-10.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-10.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-14.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-14.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-15.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-15.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-16.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-16.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-17.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-17.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-18.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-18.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-19.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-19.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-2.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-2.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-20.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-20.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-21.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-21.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-22.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-22.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-23.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-23.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-24.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-24.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-25.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-25.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-26.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-26.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-27.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-27.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-28.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-28.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-3.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-3.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-4.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-4.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-7.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-7.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/apexcharts/line-chart-9.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\apexcharts\line-chart-9.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\bootstrap-select.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/carousel.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\carousel.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/count-down.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\count-down.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/default-theme.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\default-theme.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/jvectormap-data.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\jvectormap-data.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/jvectormap-us-lcc.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\jvectormap-us-lcc.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/jvectormap.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\jvectormap.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/jvectormap.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\jvectormap.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/main.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/morris-2.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\morris-2.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/morris-3.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\morris-3.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/morris.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\morris.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/morris.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\morris.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/raphael.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\raphael.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/switcher.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\switcher.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/theme-settings.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\theme-settings.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/js/zoom.js
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\js\zoom.js
+Content Type: application/javascript
+
+Uri: https://tfdataflow.vercel.app/login.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\login.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/oder-detail.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\oder-detail.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/oder-list.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\oder-list.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/oder-tracking.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\oder-tracking.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/privacy-policy.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\privacy-policy.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/product-details.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\product-details.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/product-list.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\product-list.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/report.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\report.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/setting.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\setting.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/sign-up.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\sign-up.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/store-setting.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\store-setting.html
+Content Type: text/html
+
+Uri: https://tfdataflow.vercel.app/terms-conditions.html
+File Name: C:\Downloaded Web Sites\tfdataflow.vercel.app\terms-conditions.html
+Content Type: text/html
+
