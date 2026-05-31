@@ -68,12 +68,12 @@
                                         </a>
                                         <ul class="sub-menu">
                                             <li class="sub-menu-item">
-                                                <a href="product-list.html" class="">
+                                                <a href="{{ url('/onlinetest') }}" class="">
                                                     <div class="text">Join Exam</div>
                                                 </a>
                                             </li>
                                             <li class="sub-menu-item">
-                                                <a href="add-product.html" class="">
+                                                <a href="{{ url("/answer") }}" class="">
                                                     <div class="text">Checked Answer Sheet</div>
                                                 </a>
                                             </li>                            
@@ -86,11 +86,10 @@
                                         </a>
                                         <ul class="sub-menu">
                                             <li class="sub-menu-item">
-                                                <a href="category-list.html" class="">
+                                                <a href="{{ url("/onlinepracticetest") }}" class="">
                                                     <div class="text">Join Test</div>
                                                 </a>
                                             </li>
-                                            
                                         </ul>
                                     </li>
                               
@@ -107,31 +106,31 @@
                                         </a>
                                     </li>
                                    <li class="menu-item">
-                                        <a href="report.html" class="">
+                                        <a href="{{ url("/atten-report") }}" class="">
                                             <div class="icon"><i class="icon-pie-chart"></i></div>
                                             <div class="text">Attendence Report</div>
                                         </a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="report.html" class="">
+                                        <a href="{{ url("/admitcard") }}" class="">
                                             <div class="icon"><i class="icon-pie-chart"></i></div>
                                             <div class="text">Admit Card</div>
                                         </a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="report.html" class="">
+                                        <a href="{{ url("/notice") }}" class="">
                                             <div class="icon"><i class="icon-pie-chart"></i></div>
                                             <div class="text">Notice</div>
                                         </a>
                                     </li>
                                     <li class="menu-item">
-                                        <a href="report.html" class="">
+                                        <a href="{{ url("/student-pdf-notes") }}" class="">
                                             <div class="icon"><i class="icon-pie-chart"></i></div>
-                                            <div class="text">Admit Card</div>
+                                            <div class="text">PDF Notes</div>
                                         </a>
                                     </li>
                                    <li class="menu-item">
-                                        <a href="report.html" class="">
+                                        <a href="{{ url("/student-video-content") }}" class="">
                                             <div class="icon"><i class="icon-pie-chart"></i></div>
                                             <div class="text">Video Content</div>
                                         </a>

@@ -168,6 +168,8 @@ Route::get('/bank', function () {
     return view('frontend.bank-details');
 });
 
+// student panel 
+
 Route::get("/student-panel", function () {
     return view('student.master');
 });
@@ -177,4 +179,29 @@ Route::get("/profile", function () {
 });
 Route::get("/fees", function () {
     return view('student.fees');
+});
+Route::get("/answer", function () {
+    return view('student.answer');
+});
+Route::get("/atten-report", function () {
+    return view('student.atten_report');
+});
+Route::get("/admitcard", function () {
+    return view('student.admitcard-list');
+});
+
+Route::get("/notice", function () {
+    return view('student.notice');
+});
+Route::get("/onlinepracticetest", function () {
+    return view('student.onlinepracticetest');
+}); 
+Route::get("/onlinetest", function () {
+    return view('student.onlinetest');
+});
+Route::get("/student-pdf-notes", function () {
+    return view('student.notes');
+});
+Route::get("/student-video-content", function () {
+    return view('student.video-content');
 });
